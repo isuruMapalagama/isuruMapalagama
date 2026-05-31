@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Software+Engineer+Intern;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Machine+Learning+Enthusiast;Always+Learning+New+Things" />
 </p>
 
-<h3 align="center">🚀 Software Engineer Intern | Full-Stack Developer | ML Enthusiast</h3>
+<h3 align="center">🚀 Associate Software Engineer | Full-Stack Developer | ML Enthusiast</h3>
 <p align="center">🎓 B.Sc (Hons) Computer Science & Technology Undergraduate | Sri Lanka 🇱🇰</p>
 
 ---
