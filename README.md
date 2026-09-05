@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="center">🚀 Associate Software Engineer | Full-Stack Developer | ML Enthusiast</h3>
-<p align="center">🎓 B.Sc (Hons) Computer Science & Technology Undergraduate | Sri Lanka 🇱🇰</p>
+<p align="center">🎓 B.Sc (Hons) Computer Science & Technology  | Sri Lanka 🇱🇰</p>
 
 ---
 
